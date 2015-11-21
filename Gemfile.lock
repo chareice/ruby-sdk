@@ -3,7 +3,7 @@ PATH
   specs:
     qiniu (6.4.2)
       json (~> 1.8)
-      mime-types (~> 1.19)
+      mime-types (~> 2.7.3)
       rest-client (~> 1.7.3)
       ruby-hmac (~> 0.4)
 
